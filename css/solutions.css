@@ -7,4 +7,19 @@
   background-color: red;
 }
 
-/* Esercizio  */
+/* Esercizio 2 */
+.ex-2-square {
+  transition: all 2s;
+}
+
+.ex-2-square:active {
+  width: 100%;
+}
+/* Esercizio 3 */
+/* Esercizio 4 */
+/* Esercizio 5 */
+/* Esercizio 6 */
+/* Esercizio 7 */
+/* Esercizio 8 */
+/* Esercizio 9 */
+/* Esercizio 10 */
