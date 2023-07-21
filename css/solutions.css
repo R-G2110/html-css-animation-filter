@@ -64,6 +64,15 @@
 }
 
 /* Esercizio 8 */
+.ex-8-img {
+  transition: all 2s;
+}
+
+.ex-8-img:hover {
+  border-radius: 20px;
+  filter: grayscale(.5) sepia(.4);
+}
+
 /* Esercizio 9 */
 /* Esercizio 10 */
 /* Esercizio 10 */
